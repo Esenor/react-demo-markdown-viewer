@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-demo-markdown-viewer/static/css/main.97a19a90.chunk.css",
+    "main.js": "/react-demo-markdown-viewer/static/js/main.5fbf4fdc.chunk.js",
+    "main.js.map": "/react-demo-markdown-viewer/static/js/main.5fbf4fdc.chunk.js.map",
+    "runtime~main.js": "/react-demo-markdown-viewer/static/js/runtime~main.8f8daf9b.js",
+    "runtime~main.js.map": "/react-demo-markdown-viewer/static/js/runtime~main.8f8daf9b.js.map",
+    "static/css/2.6d8b22a9.chunk.css": "/react-demo-markdown-viewer/static/css/2.6d8b22a9.chunk.css",
+    "static/js/2.717c9940.chunk.js": "/react-demo-markdown-viewer/static/js/2.717c9940.chunk.js",
+    "static/js/2.717c9940.chunk.js.map": "/react-demo-markdown-viewer/static/js/2.717c9940.chunk.js.map",
+    "index.html": "/react-demo-markdown-viewer/index.html",
+    "precache-manifest.44aade04e521f1c5e9bbb3cfd8b1cc2c.js": "/react-demo-markdown-viewer/precache-manifest.44aade04e521f1c5e9bbb3cfd8b1cc2c.js",
+    "service-worker.js": "/react-demo-markdown-viewer/service-worker.js",
+    "static/css/2.6d8b22a9.chunk.css.map": "/react-demo-markdown-viewer/static/css/2.6d8b22a9.chunk.css.map",
+    "static/css/main.97a19a90.chunk.css.map": "/react-demo-markdown-viewer/static/css/main.97a19a90.chunk.css.map",
+    "static/media/semantic.min.css": "/react-demo-markdown-viewer/static/media/outline-icons.ef60a4f6.woff"
+  }
+}
