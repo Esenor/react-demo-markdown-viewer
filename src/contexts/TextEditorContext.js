@@ -3,7 +3,7 @@ import React, {useState, useContext} from 'react'
 /**
  * Text editor context
  */
-export const TextEditorContext = React.createContext({
+const TextEditorContext = React.createContext({
   text: '',
   updateText: () => {},
   getText: () => {}
