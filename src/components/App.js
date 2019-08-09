@@ -1,6 +1,6 @@
 import React from 'react';
-import MarkdownViewerContainer from '../containers/TextEditor/MarkdownViewer.container'
-import MarkdownEditorContainer from '../containers/TextEditor/MarkdownEditor.container'
+import MarkdownViewerContainer from '../containers/textEditor/MarkdownViewer.container'
+import MarkdownEditorContainer from '../containers/textEditor/MarkdownEditor.container'
 import ToogleContainer from './ui/ToogleContainer'
 import { TextEditorProvider } from '../contexts/TextEditorContext'
 
